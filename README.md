@@ -22,35 +22,47 @@
 
 
 
-
-
-
-
-
-
-
-<div align="center">
+<div align="center">                                                                                                                                                                                    
+                                                                                                                                                                                                            
+    <a href="https://github.com/StarBorn1v1/HostMaster/releases/latest">                                                                                                                                    
+      <img src="https://img.shields.io/badge/Download_for_Linux-AppImage-2ea44f?style=for-the-badge&logo=linux" alt="Download AppImage">                                                                    
+    </a>                                                                                                                                                                                                    
+    <a href="https://discord.com/invite/4DNhRb87my">                                                                                                                                                        
+      <img src="https://img.shields.io/badge/Discord-Join_Community-5865F2?style=for-the-badge&logo=discord" alt="StarBorn Community">                                                                      
+    </a>                                                                                                                                                                                                    
+                                                                                                                                                                                                            
+    <br/><br/>                                                                                                                                                                                              
+                                                                                                                                                                                                            
+    # Host Master                                                                                                                                                                                           
   
-    # Host Master
+    ### *See what is running on your machine. Understand it. Take action.*
   
-    **See what is running on your machine. Understand it. Take action.**
+    <p>
+      <a href="#features">Features</a> ·
+      <a href="#how-it-works">How It Works</a> ·
+      <a href="#safety--process-termination">Safety</a> ·
+      <a href="#development-environment">Development</a> ·
+      <a href="#future-distribution">Future Distribution</a> ·
+      <a href="#license">License</a>
+    </p>
   
-    <br>
-  
-    [![Download AppImage](https://img.shields.io/badge/Download_for_Linux-AppImage-2ea44f?style=for-the-badge&logo=linux)](https://github.com/StarBorn1v1/HostMaster/releases/latest)
-    [![StarBorn Community](https://img.shields.io/badge/Discord-Join_Community-5865F2?style=for-the-badge&logo=discord)](https://discord.com/invite/4DNhRb87my)
-  
-    [![GitHub Release](https://img.shields.io/github/v/release/StarBorn1v1/HostMaster?style=flat-square&color=blue)](https://github.com/StarBorn1v1/HostMaster/releases/latest)
-    [![GitHub Stars](https://img.shields.io/github/stars/StarBorn1v1/HostMaster?style=flat-square&color=gold)](https://github.com/StarBorn1v1/HostMaster/stargazers)
-    [![GitHub Forks](https://img.shields.io/github/forks/StarBorn1v1/HostMaster?style=flat-square&color=lightgrey)](https://github.com/StarBorn1v1/HostMaster/network/members)
-    [![License](https://img.shields.io/github/license/StarBorn1v1/HostMaster?style=flat-square&color=green)](https://github.com/StarBorn1v1/HostMaster/blob/main/LICENSE)
-  
-    <br>
-  
-    [Features](#features) &nbsp;·&nbsp; [How It Works](#how-it-works) &nbsp;·&nbsp; [Safety](#safety--process-termination) &nbsp;·&nbsp; [Development](#development-environment) &nbsp;·&nbsp;              
-  [License](#license)
+    <p>
+      <a href="https://github.com/StarBorn1v1/HostMaster/stargazers">
+        <img src="https://img.shields.io/github/stars/StarBorn1v1/HostMaster?style=flat-square&logo=github&color=FFD700" alt="Stars">
+      </a>
+      <a href="https://github.com/StarBorn1v1/HostMaster/network/members">
+        <img src="https://img.shields.io/github/forks/StarBorn1v1/HostMaster?style=flat-square&logo=github&color=4FC3F7" alt="Forks">
+      </a>
+      <a href="https://github.com/StarBorn1v1/HostMaster/blob/main/LICENSE">
+        <img src="https://img.shields.io/github/license/StarBorn1v1/HostMaster?style=flat-square&color=8B5CF6" alt="MIT License">
+      </a>
+      <a href="https://github.com/StarBorn1v1/HostMaster/releases/latest">
+        <img src="https://img.shields.io/github/v/release/StarBorn1v1/HostMaster?style=flat-square&color=blue" alt="Latest Release">
+      </a>
+    </p>
   
     </div>
+
 
 
 
