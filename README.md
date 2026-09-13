@@ -125,9 +125,9 @@ The x86_64 AppImage is intended for modern 64-bit desktop Linux distributions, i
 
 - **Port & Process Visualization:** A dynamic, orbital "lattice" view graphs your active listening ports and their associated services.
 
-- **Process Inspection:** Select any node to reveal its underlying PID, IP, port, and the full command-line arguments that started it.
+- **Process Inspection:** Select any node to reveal its underlying PID, IP, port, and the full command line arguments that started it.
 
-- **Progressive Reveal for Protected Processes:** If a port is occupied by a root-level process (e.g., Docker containers), Host Master detects it and provides an integrated, OS-style authentication prompt (`sudo`) to inspect and manage it securely.
+- **Progressive Reveal for Protected Processes:** If a port is occupied by a root level process (e.g., Docker containers), Host Master detects it and provides an integrated, OS-style authentication prompt (`sudo`) to inspect and manage it securely.
 
 - **Process Termination:** Safely terminate lingering development servers or stuck processes directly from the UI (sends `SIGTERM`, falling back to `SIGKILL`).
 
@@ -139,7 +139,7 @@ The x86_64 AppImage is intended for modern 64-bit desktop Linux distributions, i
 
 Developers frequently have multiple local services running simultaneously: development servers, APIs, databases, test environments, and background containers. 
 
-While traditional terminal commands can identify these processes, a visual overview makes the relationships easier to understand instantly. Host Master exists to provide that visual layer. It doesn't replace your system diagnostic tools—it complements them by making your local port activity immediately visible and actionable.
+While traditional terminal commands can identify these processes, a visual overview makes the relationships easier to understand instantly. Host Master exists to provide that visual layer. It doesn't replace your system diagnostic tools it complements them by making your local port activity immediately visible and actionable.
 
 ## How It Works
 
@@ -153,9 +153,9 @@ Host Master securely queries the OS kernel to find all processes explicitly in a
 
 ## Safety & Process Termination
 
-**Caution:** Host Master gives you the ability to terminate processes. Terminating the wrong system-critical process or background service can disrupt your operating system or local applications. 
+**Caution:** Host Master gives you the ability to terminate processes. Terminating the wrong system critical process or background service can disrupt your operating system or local applications. 
 
-Always verify the command-line arguments and process name in the Inspector panel before terminating a process. For root-level processes (like Docker daemons), Host Master will require elevated privileges via an authentication prompt.
+Always verify the command line arguments and process name in the Inspector panel before terminating a process. For root level processes (like Docker daemons), Host Master will require elevated privileges via an authentication prompt.
 
 ## Development Environment
 
@@ -195,8 +195,8 @@ Currently, Host Master is developed and verified on Linux. Future distribution t
 * Windows executable
 
 
-*Note: Cross-platform port discovery and elevated process termination require platform-specific implementations that are currently optimized for Linux.*
+*Note: Cross platform port discovery and elevated process termination require platform specific implementations that are currently optimized for Linux.*
 
 ## License
 
-Host Master is open-source software licensed under the [MIT License](LICENSE).
+Host Master is open source software licensed under the [MIT License](LICENSE).
