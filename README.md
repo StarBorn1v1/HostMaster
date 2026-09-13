@@ -31,6 +31,42 @@
     </p>
 
 
+
+
+
+## Download
+
+### Linux
+
+**Host Master v0.1.0** is currently distributed as an `x86_64` AppImage for 64-bit Intel and AMD Linux systems.
+
+[Download Host Master for Linux](https://github.com/StarBorn1v1/HostMaster/releases/download/v0.1.0/Host-Master-x86_64.AppImage)
+
+#### Target Linux Distributions 
+
+
+The x86_64 AppImage is intended for modern 64-bit desktop Linux distributions, including:
+
+- Linux Mint
+- Ubuntu
+- Debian
+- Fedora
+- Arch Linux
+- Manjaro
+- Pop!_OS
+- Zorin OS
+- openSUSE
+- elementary OS
+- EndeavourOS
+
+> **Architecture:** x86_64 / AMD64  
+> **Package:** AppImage  
+> **Release:** v0.1.0
+
+𝙃𝙊𝙎𝙏 𝙈𝘼𝙎𝙏𝙀𝙍 is targeted at those distributions but I haven't tested 𝙃𝙊𝙎𝙏 𝙈𝘼𝙎𝙏𝙀𝙍 on every one of those distributions 
+
+
+
 ## Features
 
 - **Local Host Overview:** The central hub visualizes your machine's global resources (CPU %, RAM usage, Disk I/O, and active listeners).
