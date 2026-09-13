@@ -17,8 +17,24 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
 <div align="center">
-    
+  
+    # Host Master
+  
+    **See what is running on your machine. Understand it. Take action.**
+  
     <br>
   
     [![Download AppImage](https://img.shields.io/badge/Download_for_Linux-AppImage-2ea44f?style=for-the-badge&logo=linux)](https://github.com/StarBorn1v1/HostMaster/releases/latest)
