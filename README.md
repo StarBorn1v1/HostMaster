@@ -10,9 +10,33 @@
                                                                                                             
                                                                                                             
                                                                                                             
-                                                                                                            
+
                                                                                                             
 > 𝒔𝒆𝒆 𝒘𝒉𝒂𝒕 𝒊𝒔 𝒓𝒖𝒏𝒏𝒊𝒏𝒈 𝒐𝒏 𝒚𝒐𝒖𝒓 𝒎𝒂𝒄𝒉𝒊𝒏𝒆. 𝒖𝒏𝒅𝒆𝒓𝒔𝒕𝒂𝒏𝒅 𝒊𝒕. 𝒕𝒂𝒌𝒆 𝒂𝒄𝒕𝒊𝒐𝒏.
+
+
+
+
+<div align="center">
+    
+    <br>
+  
+    [![Download AppImage](https://img.shields.io/badge/Download_for_Linux-AppImage-2ea44f?style=for-the-badge&logo=linux)](https://github.com/StarBorn1v1/HostMaster/releases/latest)
+    [![StarBorn Community](https://img.shields.io/badge/Discord-Join_Community-5865F2?style=for-the-badge&logo=discord)](https://discord.com/invite/4DNhRb87my)
+  
+    [![GitHub Release](https://img.shields.io/github/v/release/StarBorn1v1/HostMaster?style=flat-square&color=blue)](https://github.com/StarBorn1v1/HostMaster/releases/latest)
+    [![GitHub Stars](https://img.shields.io/github/stars/StarBorn1v1/HostMaster?style=flat-square&color=gold)](https://github.com/StarBorn1v1/HostMaster/stargazers)
+    [![GitHub Forks](https://img.shields.io/github/forks/StarBorn1v1/HostMaster?style=flat-square&color=lightgrey)](https://github.com/StarBorn1v1/HostMaster/network/members)
+    [![License](https://img.shields.io/github/license/StarBorn1v1/HostMaster?style=flat-square&color=green)](https://github.com/StarBorn1v1/HostMaster/blob/main/LICENSE)
+  
+    <br>
+  
+    [Features](#features) &nbsp;·&nbsp; [How It Works](#how-it-works) &nbsp;·&nbsp; [Safety](#safety--process-termination) &nbsp;·&nbsp; [Development](#development-environment) &nbsp;·&nbsp;              
+  [License](#license)
+  
+    </div>
+
+
 
 
 
