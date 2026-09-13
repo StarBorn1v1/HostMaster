@@ -26,6 +26,12 @@
 
 ![Host Master Interface](assets/screenshot.png)
 
+
+<p align="center">
+      <img src="assets/starchild.png" alt="Host Master screenshot">
+    </p>
+
+
 ## Features
 
 - **Local Host Overview:** The central hub visualizes your machine's global resources (CPU %, RAM usage, Disk I/O, and active listeners).
