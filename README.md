@@ -33,9 +33,9 @@
 
 <br/><br/>
 
-# Host Master
 
-### *See what is running on your machine. Understand it. Take action.*
+
+
 
 <p>
   <a href="#features">Features</a> ·
