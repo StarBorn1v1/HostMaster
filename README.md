@@ -59,6 +59,8 @@ The x86_64 AppImage is intended for modern 64-bit desktop Linux distributions, i
 - elementary OS
 - EndeavourOS
 
+- Windows (10 & 11)
+
 > **Architecture:** x86_64 / AMD64  
 > **Package:** AppImage  
 > **Release:** v0.1.0
